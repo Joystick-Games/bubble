@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95cea3bc.css",
+    "main.js": "/static/js/main.e1661898.js",
+    "static/js/141.11ea37e2.chunk.js": "/static/js/141.11ea37e2.chunk.js",
+    "static/js/209.b9141f0c.chunk.js": "/static/js/209.b9141f0c.chunk.js",
+    "static/js/717.fd776f4e.chunk.js": "/static/js/717.fd776f4e.chunk.js",
+    "static/js/829.bb25333e.chunk.js": "/static/js/829.bb25333e.chunk.js",
+    "static/media/EmojiOneColor.woff2": "/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/NotoColorEmoji-flags.woff2": "/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "static/media/joystickIcon.png": "/static/media/joystickIcon.3fb2d53e89e754e50b37.png",
+    "static/media/Bubble2.png": "/static/media/Bubble2.058777b7e4dc912b0838.png",
+    "index.html": "/index.html",
+    "main.95cea3bc.css.map": "/static/css/main.95cea3bc.css.map",
+    "main.e1661898.js.map": "/static/js/main.e1661898.js.map",
+    "141.11ea37e2.chunk.js.map": "/static/js/141.11ea37e2.chunk.js.map",
+    "209.b9141f0c.chunk.js.map": "/static/js/209.b9141f0c.chunk.js.map",
+    "717.fd776f4e.chunk.js.map": "/static/js/717.fd776f4e.chunk.js.map",
+    "829.bb25333e.chunk.js.map": "/static/js/829.bb25333e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95cea3bc.css",
+    "static/js/main.e1661898.js"
+  ]
+}
